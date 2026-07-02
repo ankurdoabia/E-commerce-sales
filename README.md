@@ -166,7 +166,7 @@ jupyter notebook Ecommerce_sales_analysis.ipynb
 
 GitHub: https://github.com/yourusername
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https://www.linkedin.com/in/ankur-chijhar-3229a0197/
 
 ---
 
