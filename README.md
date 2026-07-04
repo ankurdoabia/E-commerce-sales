@@ -164,7 +164,7 @@ jupyter notebook Ecommerce_sales_analysis.ipynb
 
 **Ankur Doabia**
 
-GitHub: https://github.com/yourusername
+GitHub: https://github.com/ankurdoabia
 
 LinkedIn: https://www.linkedin.com/in/ankur-chijhar-3229a0197/
 
